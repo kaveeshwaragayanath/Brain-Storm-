@@ -1,5 +1,6 @@
 # Brain-Storm-
-![Uploading WhatsApp Image 2023-09-12 at 01.20.14.jpeg…]()
+![WhatsApp Image 2023-09-12 at 01 20 14](https://github.com/kaveeshwaragayanath/Brain-Storm-/assets/125355380/f78a634a-c5bf-4e2f-919d-11f156b96344)
+
 
 
 Digital Stethoscope: Revolutionizing Medical Diagnostics
